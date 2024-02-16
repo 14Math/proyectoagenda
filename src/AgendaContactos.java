@@ -1,2 +1,2 @@
-public interface AgendaContactos {
+public class AgendaContactos {
 }

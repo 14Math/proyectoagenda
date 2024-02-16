@@ -1,2 +1,2 @@
-public class GestionAgenda {
+public interface GestionAgenda {
 }
